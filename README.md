@@ -1,7 +1,5 @@
-# Phone-Number-Generator
+# Phone-Number-Detector
 
-This code helps to genrerate random number for a specific area code 
+This python script helps you detect a phone number carrier, possibility of number and validity of number
 
-Now let;s run this
 
-second change made
